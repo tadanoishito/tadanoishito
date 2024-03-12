@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Japanese and Programming
 - 💞️ I’m looking to collaborate on project
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: im learning programming with abstract roadmap:)
+- ⚡ Fun fact: im create new github because my old account was logged out and my number not active anymore:(
 
 <!---
 tadanoishito/tadanoishito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @tadanoishito
-- 👀 I’m interested in Programming and Music
-- 🌱 I’m currently learning Japanese and Programming
-- 💞️ I’m looking to collaborate on project
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: im create new github because my old account was logged out and my number not active anymore:(
+- Konnichiwa, Iam tadanoishito
+- Iam currently learning Japanese and Programming
+- Iam looking to collaborate on project
+- Pronouns: He/Him
 
 <!---
 tadanoishito/tadanoishito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

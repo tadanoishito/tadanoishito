@@ -1,17 +1,17 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>Hello, I am
-                <b>Tadano Hito Hito</b>
-        </samp>
+    <samp>Hello, I am
+        <b>Tadano Hito Hito</b>
+    </samp>
 </h3>
 
 <p align="center"> 
-  <samp>
-    <br>
-    「 I am a mobile and website developer 」
-    <br>
-    <br>
-  </samp>
+    <samp>
+        <br>
+        「 I am a mobile and website developer 」
+        <br>
+        <br>
+    </samp>
 </p>
 <br />
 
@@ -20,11 +20,10 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Just take chill while coding <br/><br/>
- ❤️ &emsp; Like learning new knowledge<br/><br/>
-
+    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+    
+    ✌️ &emsp; Just take chill while coding <br/><br/>
+    ❤️ &emsp; Like learning new knowledge<br/><br/>
 </p>
 
 <br/>
@@ -50,5 +49,6 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <br/>

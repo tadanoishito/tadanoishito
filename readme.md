@@ -22,8 +22,8 @@
 <p>
     <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     
-    <p>✌️ &emsp; Just take chill while coding</p>
-    <p>❤️ &emsp; Like learning new knowledge</p>
+    ✌️ Just take chill while coding
+    ❤️ Like learning new knowledge
 </p>
 
 <br/>

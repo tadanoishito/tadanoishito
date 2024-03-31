@@ -20,7 +20,7 @@
 # About me
 
 <p>
-    <img align="right" width="350" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coding gif" />
+    <img align="right" width="350" src="asset/giphy.gif" alt="Coding gif" />
     ✌️ Just take chill while coding
     ❤️ Like learning new knowledge
     ❤️ I like anime

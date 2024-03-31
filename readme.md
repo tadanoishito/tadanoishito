@@ -8,7 +8,6 @@
 
 <p align="center"> 
     <samp>
-        <br>
         I am a mobile and website developer
     </samp>
 </p>

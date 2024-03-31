@@ -2,12 +2,21 @@
 <h2 align="center">
     <samp>Hello, I am
         <b>Tadano Hito Hito</b>
+        <br>
     </samp>
-    <samp>I am a mobile and website developer</samp>
 </h2>
 
+<p align="center"> 
+    <samp>
+        I am a mobile and website developer
+    </samp>
+</p>
+<br />
+
 <!-- About Section -->
+
 # About me
+
 <p>
     <img align="right" width="350" src="asset/giphy.gif" alt="Coding gif" />
 

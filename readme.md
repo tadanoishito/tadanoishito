@@ -21,10 +21,12 @@
 
 <p>
     <img align="right" width="350" src="asset/giphy.gif" alt="Coding gif" />
+
     ✌️ Just take chill while coding
     ❤️ Like learning new knowledge
     ❤️ I like anime
     😴 If I feel lazy to code, then WordPress is the solution
+
 </p>
 
 <br/>

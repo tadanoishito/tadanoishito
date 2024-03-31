@@ -1,9 +1,9 @@
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
     <samp>Hello, I am
         <b>Tadano Hito Hito</b>
     </samp>
-</h3>
+</h2>
 
 <p align="center"> 
     <samp>

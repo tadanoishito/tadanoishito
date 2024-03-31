@@ -26,7 +26,6 @@
     ❤️ Like learning new knowledge
     ❤️ I like anime
     😴 If I feel lazy to code, then WordPress is the solution
-
 </p>
 
 <br/>

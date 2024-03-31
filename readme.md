@@ -25,7 +25,8 @@
     ✌️ Just take chill while coding
     ❤️ Like learning new knowledge
     ❤️ I like anime
-    😴 If I feel lazy to code, then WordPress is the solution
+    😴 If I feel lazy to code, WordPress solution
+
 </p>
 
 <br/>

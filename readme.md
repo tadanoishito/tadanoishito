@@ -2,6 +2,7 @@
 <h2 align="center">
     <samp>Hello, I am
         <b>Tadano Hito Hito</b>
+        <br>
     </samp>
 </h2>
 
@@ -9,8 +10,6 @@
     <samp>
         <br>
         I am a mobile and website developer
-        <br>
-        <br>
     </samp>
 </p>
 <br />

@@ -7,9 +7,7 @@
 </h2>
 
 <!-- About Section -->
-
 # About me
-
 <p>
     <img align="right" width="350" src="asset/giphy.gif" alt="Coding gif" />
 

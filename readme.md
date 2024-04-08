@@ -20,12 +20,12 @@
 
 # About me
 
-<p>
-    👨‍🎓 Im was programming for 3 years in high school
-    😒 When i was child i dont really like programming
-    ❤️ Anime is good after doing this working
-    ⚡ !Coffee can make people sleepy
-</p>
+<div>
+    <p>👨‍🎓 Im was programming for 3 years in high school</p>
+    <p>😒 When i was child i dont really like programming</p>
+    <p>❤️ Anime is good after doing this working</p>
+    <p>⚡ !Coffee can make people sleepy</p>
+</div>
 
 <br/>
 <br/>

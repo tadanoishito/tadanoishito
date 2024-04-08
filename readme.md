@@ -1,6 +1,8 @@
 <!-- Image Feature -->
 <img align="right" width="1920" src="asset/video.gif" alt="Coding gif" />
 
+<br/>
+
 <!-- Intro  -->
 <div align="center">
     <h2>Hello, I am

@@ -18,7 +18,7 @@
     👨‍🎓 Im was programming for 3 years in high school
     😒 When i was child i dont really like programming
     ❤️ Anime is good after doing this working
-    ⚡ Already can work underpreasure "yeah after this i might gotta stressed"
+    ⚡ !Coffee can make people sleepy
 
 </p>
 

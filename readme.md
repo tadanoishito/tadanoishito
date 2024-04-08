@@ -13,13 +13,10 @@
 # About me
 
 <p>
-    <img align="right" width="330" src="asset/video.gif" alt="Coding gif" />
-
     👨‍🎓 Im was programming for 3 years in high school
     😒 When i was child i dont really like programming
     ❤️ Anime is good after doing this working
     ⚡ !Coffee can make people sleepy
-
 </p>
 
 <br/>
@@ -42,11 +39,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<br/>
+
 # Use to create mobile apps
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)
+
+<br/>
 
 # Tools
 

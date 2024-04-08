@@ -25,9 +25,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 # Use to create website
 

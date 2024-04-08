@@ -1,6 +1,9 @@
 <!-- Image Feature -->
-<img align="right" width="1920" src="asset/video.gif" alt="Coding gif" />
+<div>
+    <img align="center" width="1920" src="asset/video.gif" alt="Coding gif" />
+</div>
 
+<br/>
 <br/>
 
 <!-- Intro  -->

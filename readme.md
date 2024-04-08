@@ -15,11 +15,10 @@
 <p>
     <img align="right" width="350" src="asset/giphy.gif" alt="Coding gif" />
 
-    ✌️ Just take chill while coding
-    ❤️ Like learning new knowledge
-    ❤️ I like anime
-    😴 If I feel lazy to code, WordPress solution
-    ⚡ Take a coffee for speed up
+    👨‍🎓 Im was programming for 3 years in high school
+    😒 When i was child i dont really like programming
+    ❤️ Anime is good after doing this working
+    ⚡ Already can work underpreasure "yeah after this i might gotta stressed"
 
 </p>
 

@@ -24,6 +24,7 @@
     ❤️ Like learning new knowledge
     ❤️ I like anime
     😴 If I feel lazy to code, WordPress solution
+    ⚡ Take a coffee for speed up
 
 </p>
 

@@ -13,7 +13,7 @@
 # About me
 
 <p>
-    <img align="right" width="350" src="asset/giphy.gif" alt="Coding gif" />
+    <img align="right" width="350" src="asset/video.gif" alt="Coding gif" />
 
     👨‍🎓 Im was programming for 3 years in high school
     😒 When i was child i dont really like programming

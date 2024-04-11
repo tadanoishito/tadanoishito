@@ -21,7 +21,7 @@
 # About me
 
 <div>
-    <p>👨‍🎓 Im was programming for 3 years in high school</p>
+    <p>👨‍🎓 I was programming for 3 years in high school</p>
     <p>😒 When i was child i dont really like programming</p>
     <p>❤️ Anime is good after doing this working</p>
     <p>⚡ !Coffee can make people sleepy</p>
